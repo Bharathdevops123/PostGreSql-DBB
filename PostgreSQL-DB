@@ -1,0 +1,39 @@
+PostgreSQL-DB
+-----------
+Object - Relational Database management system
+Open SOurce
+Uses sql query language
+Use Cases: Finance and health care applications
+
+Official Website to download sofware: https://www.postgresql.org/download/
+
+Data types: 
+  1) Premitive -
+    a) Integer
+    b) real
+    c) varchar
+  2) Structured to document
+    a)xml
+    b)json
+  3)Geometry based datatypes (points, lines, in form of co ordinates)
+
+Data integrity Constraints:
+  1) UNIQUE contraints
+  2) Not NULL
+  3) Keys to explicit Locks
+
+Unique Features? 
+  1) Supports multiple programming languages
+  2) Open source
+  3) Extensible - Supports creation odf custome databses, indexes
+  4) Highly reliable and secure  - Wide range of authentication methods, supports SSL based connectio encryption
+  5) Supports MVCC -  (muti version concurrency control)
+    *) supports concurrent Transactions
+    *) no dead locks
+
+Software Management tool: PGAdmin
+
+Install SOftware:
+Download PGAdmin https://www.postgresql.org/download/
+Install the PGAdmin
+Select Password,Port number and plugins to install
