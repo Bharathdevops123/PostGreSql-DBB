@@ -48,4 +48,7 @@ Clauses are also same
 where, orderby, Is null, but we have these extra 
 Offset fetch ,like
 
-
+Queries:
+\l : List all the databases
+create database PostGres_Test 
+/c : connects to database from sql shell
