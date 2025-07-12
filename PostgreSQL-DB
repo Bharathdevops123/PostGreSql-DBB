@@ -2,7 +2,7 @@ PostgreSQL-DB
 -----------
 Object oriented and Relational Database management system
 Open SOurce
-Uses sql query language
+Uses sql query language (90% sql queries are same only few extra features are added)
 Use Cases: Finance and health care applications
 
 Official Website to download sofware: https://www.postgresql.org/download/
