@@ -39,5 +39,5 @@ Install the PGAdmin
 Select Password,Port number and plugins to install
 
 Basic Queries:
-Select version(); --Gives version of the postgres installed
+Select Version(); --Gives version of the postgres installed
 
