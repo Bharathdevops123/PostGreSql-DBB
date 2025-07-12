@@ -31,7 +31,9 @@ Unique Features?
     *) supports concurrent Transactions
     *) no dead locks
 
-Software Management tool: PGAdmin
+Software Management tool: 
+  1)PGAdmin
+  2)SqlShell
 
 Install SOftware:
 Download PGAdmin https://www.postgresql.org/download/
