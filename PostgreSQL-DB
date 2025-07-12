@@ -41,3 +41,9 @@ Select Password,Port number and plugins to install
 Basic Queries:
 Select Version(); --Gives version of the postgres installed
 
+Basic commands are same in Postgres - Insert, Select, Create, Drop and Update
+Clauses are also same 
+where, orderby, Is null, but we have these extra 
+Offset fetch ,like
+
+
