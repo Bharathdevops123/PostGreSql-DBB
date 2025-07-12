@@ -1,6 +1,6 @@
 PostgreSQL-DB
 -----------
-Object - Relational Database management system
+Object oriented and Relational Database management system
 Open SOurce
 Uses sql query language
 Use Cases: Finance and health care applications
@@ -47,6 +47,8 @@ Basic commands are same in Postgres - Insert, Select, Create, Drop and Update
 Clauses are also same 
 where, orderby, Is null, but we have these extra 
 Offset fetch ,like, limit
+fetch: is used to fetch first n rows only
+Offset: is used to display other than n rows
 
 Queries:
 \l : List all the databases
