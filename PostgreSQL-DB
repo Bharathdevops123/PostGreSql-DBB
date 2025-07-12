@@ -1,6 +1,8 @@
 PostgreSQL-DB
 -----------
 object-relational database management system
+It supports both relational (SQL) and non-relational (JSON) and offers advanced SQL functions, including foreign keys, subqueries, and triggers. 
+PostgreSQL is also highly extensible, allowing you to define data types and generate custom functions. 
 Open SOurce
 Uses sql query language (90% sql queries are same only few extra features are added)
 Use Cases: Finance and health care applications
